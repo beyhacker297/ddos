@@ -21,11 +21,9 @@ os.system("clear")
 os.system("figlet DDos Attack")
 print
 print "Author   : BEYHACKER"
-
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
-
 os.system("clear")
 os.system("figlet Attack Starting")
 print "[                    ] 0% "
